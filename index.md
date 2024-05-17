@@ -4,7 +4,7 @@ I am about to start as an AI Researcher at [Aleph Alpha](https://aleph-alpha.com
 
 Before that, I:
 
-- Co-Founded GoldenSet, a (short-lived) startup for LLM evaluation
+- Co-founded GoldenSet, a (short-lived) startup for LLM evaluation
 
 - Built open-source ML software at Jina AI, co-leading the [DocArray](https://github.com/docarray/docarray) project
 
