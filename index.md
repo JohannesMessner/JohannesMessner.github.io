@@ -17,3 +17,7 @@ Before that, I:
 ## Reach out 
 [hi@johannesmessner.com](mailto:hi@johannesmessner.com)  
 [Github](https://github.com/JohannesMessner)  [Twitter](https://x.com/atomicflndr)  [Linkedin](https://www.linkedin.com/in/johannes-messner/)  
+
+## Links
+
+I maintain a list of interesting things [here](links.md).
