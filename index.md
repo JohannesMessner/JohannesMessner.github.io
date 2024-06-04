@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am about to start as an AI Researcher at [Aleph Alpha](https://aleph-alpha.com/).
+I am an AI Researcher at [Aleph Alpha](https://aleph-alpha.com/).
 
 Before that, I:
 
