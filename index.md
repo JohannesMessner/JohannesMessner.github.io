@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am an AI Researcher at [Aleph Alpha](https://aleph-alpha.com/).
+I am an AI Researcher at [Aleph Alpha](https://aleph-alpha.com/) working on personalized LLM alignment.
 
 Before that, I:
 
